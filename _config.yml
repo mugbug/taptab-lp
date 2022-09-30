@@ -37,27 +37,27 @@ features                                  :
 
   - title                                 : Todo seu repertório musical em um só lugar!
     description                           :
-    fontawesome_icon_name                 : album
+    fontawesome_icon_name                 : music
 
   - title                                 : Adicione novas músicas em um clique!
     description                           :
-    fontawesome_icon_name                 : album
+    fontawesome_icon_name                 : music
 
   - title                                 : Organize suas músicas de forma simples
     description                           :
-    fontawesome_icon_name                 : album
+    fontawesome_icon_name                 : music
 
   - title                                 : Encontre a música perfeita para tocar em um clique
     description                           :
-    fontawesome_icon_name                 : album
+    fontawesome_icon_name                 : music
 
   - title                                 : Clique no ícone de nota musical pra esconder cifras pra e se desafie!
     description                           :
-    fontawesome_icon_name                 : album
+    fontawesome_icon_name                 : music
 
   - title                                 : Dê play em uma música pra praticar sem nem precisar abrir o Spotify!
     description                           :
-    fontawesome_icon_name                 : album
+    fontawesome_icon_name                 : music
 
 # Theme Settings
 topbar_color                              : "#000000"
