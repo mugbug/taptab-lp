@@ -8,7 +8,7 @@ include_in_header: true
 
 <br>
 
-### `Latest`
+### `Initial Release`
 # **Version 1.0**
 Essa é a primeira versão do app!
 
